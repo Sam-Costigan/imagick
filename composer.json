@@ -1,5 +1,5 @@
 {
-	"name": "Sam-Costigan/imagick",
+	"name": "sam-costigan/imagick",
 	"description": "Adds additional image manipulation functionality to SilverStripe.",
 	"type": "silverstripe-module",
 	"homepage": "https://github.com/Sam-Costigan/imagick",
