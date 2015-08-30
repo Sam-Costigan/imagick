@@ -1,5 +1,5 @@
 {
-	"name": "samdc/imagick",
+	"name": "stw/imagick",
 	"type": "silverstripe-module",
 	"require": {
 		"silverstripe/framework": "3.*",
